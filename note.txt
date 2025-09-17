@@ -1,0 +1,7 @@
+This repository will contain a simple Student Management System project using Spring Boot + MySQL.
+
+Planned Features:
+- Add Student
+- View Students
+- Update Student
+- Delete Student
